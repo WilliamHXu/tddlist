@@ -1,10 +1,10 @@
-#TDDList
+# TDDList
 
 The goal of this exercise is to think about how coders should think about testing functionality when writing code for
 production. To do so, the idea of the exercise is to implement a very basic list that has adheres to specific 
 functionality.
 
-##Requirements
+## Requirements
 
 Your list must do the following:
 * Allow the User to Add An Object To The End of the List
@@ -33,5 +33,3 @@ Bonus Points For Doing These Additional Requirements (Please see Uncle Kris for 
 
 Super Ultra-Mega Bonus Points Challenge (Definitely see Uncle Kris for redemption)
 * Get Your List to Implement the Collection Interface
-
-"# tddlist" 
