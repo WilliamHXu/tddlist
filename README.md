@@ -11,9 +11,7 @@ Your list must do the following:
 * Allow the User to Replace An Object at a Particular Index of the List with Another
 * Allow the User to Get An Object To The List By Index
 * Allow the User to Remove An Object By Index
-* Allow the User to Remove An Object By Value (Removing the first instance of the Object)
 * Allow the User to Get The Number of Elements in the List
-* Allow the User to Get An Object[] in proper sequence of the List
 * The List Can Only Allow for Non-Null Values to be Added to the List
 * There Must be a Default Constructor that Creates a New List
 * The List Must Preserve Insertion Order
@@ -27,9 +25,11 @@ Some things you may want to consider to start you off on thinking TDD
 
 Bonus Points For Doing These Additional Requirements (Please see Uncle Kris for redemption)
 * There is a constructor which a user can pass in an Object[] as an argument to initialize the list
+* Allow the User to Remove An Object By Value (Removing the first instance of the Object)
+* Allow the User to Get An Object[] in proper sequence of the List
 * The runtime complexity for getting the size of the list is O(1)
 * Implement a contains method similar to Collection.contain
 * Implement a isEmpty method similar to Collection.isEmpty
 
-Super Ultra-Mega Bonus Points Challenge (Definitely see Uncle Kris for redemption)
+Super-Ultra-Mega Bonus Points Challenge (Definitely see Uncle Kris for redemption)
 * Get Your List to Implement the Collection Interface
